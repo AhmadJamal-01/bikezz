@@ -8,7 +8,6 @@ const Hero = () => {
     <section className="py-48 md:py-0 md:h-[820px] relative overflow-hidden
     bg-primary/5">
 <div className="container mx-auto">
-hero
 </div>
 <div className="flex items-center justify-between"> 
   {/* text */}

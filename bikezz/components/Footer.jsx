@@ -24,9 +24,21 @@ const Footer = () => {
 </form>
 {/* social */}
 
-<div>
-  <Link>
-  
+<div className="flex gap-8 mx-auto text-[20px] text-white/60 mb-20  ">
+  <Link href=''>
+    <RiYoutubeFill/>
+  </Link>
+  <Link href=''>
+    <RiTwitterFill/>
+  </Link>
+  <Link href=''>
+    <RiFacebookFill/>
+  </Link>
+  <Link href=''>
+    <RiInstagramFill/>
+  </Link>
+  <Link href=''>
+    <RiPinterestFill/>
   </Link>
 </div>
         </div>
